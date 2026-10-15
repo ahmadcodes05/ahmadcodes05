@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ahmad 👋
 
-<!--
-**ahmadcodes05/ahmadcodes05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer
+I'm learning Python and building projects to improve my programming skills.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python
+- Lists, loops, and functions
+- File handling and JSON
+- Exception handling
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **To-Do List Application:** Manage tasks and save them using JSON.
+- **Expense Tracker:** Record expenses and calculate total spending.
+
+## 🎯 Goals
+- Improve my Python programming skills
+- Build practical projects
+- Learn software development best practices
+
+## 📫 Connect with me
+- GitHub: [@ahmadcodes05](https://github.com/ahmadcodes05)
